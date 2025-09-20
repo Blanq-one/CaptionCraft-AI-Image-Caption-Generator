@@ -3,6 +3,8 @@ About the Project
 
 This project builds an Image Caption Generator that automatically describes images in natural language. It uses deep learning with CNNs for image feature extraction and LSTMs for text sequence generation. The model is trained on the Flickr8k dataset, which contains 8,000 images with 5 captions each.
 
+Complete Video Tutorial: https://youtu.be/fUSTbGrL1tc
+
 🔑 Features
 
 VGG16 pre-trained CNN for feature extraction
